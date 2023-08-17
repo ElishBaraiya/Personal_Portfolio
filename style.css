@@ -11,7 +11,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(https://github.com/ElishBaraiya/Personal_Portfolio/blob/main/back_pic.png?raw=true);
+    background-image: url('https://github.com/ElishBaraiya/Personal_Portfolio/blob/main/back_pic.png?raw=true');
     background-repeat: no-repeat;
     background-size: 50% 90%;
     background-position: right;
